@@ -1,1 +1,9 @@
 /* */
+
+/* Diagnostic Styling 
+* Change Background color
+* Outline Elements */
+
+* {
+    outline: 1px dotted;
+}
